@@ -1,0 +1,56 @@
+title: Stefani Langehennig, PhD
+baseURL: https://steflangehennig.github.io/
+theme: hugo-researcher
+disableKinds:
+  - taxonomy
+  - term
+enableEmoji: yes
+math: no
+googleAnalytics: ''
+params:
+  author: Stefani Langehennig
+  description: Personal website
+  favicon: favicon.ico
+  footer:
+    text: Created with Hugo and Blogdown
+    url: https://github.com/ojroques/hugo-researcher
+  logo: ''
+  socialIcons:
+    - icon: fab fa-linkedin
+      title: LinkedIn
+      url: https://linkedin.com/in/stefani-langehennig-phd-418820144
+    - icon: fas fa-envelope
+      title: E-mail
+      url: mailto:stefani.langehennig@du.edu
+    - icon: fab fa-orcid
+      title: ORCID
+      url: https://orcid.org/0000-0002-0897-6556
+  style:
+    avatarSize: 180px
+    colorBlack: '#222222'
+    colorRed: '#dc3545'
+    fontFamily: Inconsolata
+    pageWidth: 800px
+permalinks:
+  /: /:filename
+menu:
+  main:
+    - name: About
+      url: /about
+      weight: 1
+    - name: Resume
+      url: /resume.pdf
+      weight: 4
+    - name: Contact
+      url: /contact
+      weight: 5
+    - name: Research
+      url: /research
+      weight: 3
+    - name: Teaching
+      url: /teaching
+      weight: 2
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
