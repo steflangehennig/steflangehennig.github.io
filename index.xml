@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefani Langehennig, PhD</title>
+    <link>https://steflangehennig.github.io/</link>
+    <description>Recent content on Stefani Langehennig, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://steflangehennig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://steflangehennig.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://steflangehennig.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://steflangehennig.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://steflangehennig.github.io/about/</guid>
+      <description>About Me  Welcome! I received my PhD from the University of Colorado Boulder in American politics and political methodology in 2019. In graduate school, my research focused on institutions, policy making, congressional organization, and computational social science. My dissertation explored why and under what conditions political actors’ policy preferences prevail in the creation of the federal budget. I received a Bachelor of Arts in Government from the University of Texas at Austin, a Master of Science in Political Science from the University of Nebraska Omaha, and a Master of Arts in Political Science from the University of Colorado Boulder.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://steflangehennig.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://steflangehennig.github.io/contact/</guid>
+      <description> Email: stefani.langehennig@du.edu Office Phone: +1 303-871-3789   Mailing Address  Department of Business Information &amp;amp; Analytics
+Daniels College of Business
+University of Denver
+2101 S. University Blvd.
+Denver, CO 80210
+ </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://steflangehennig.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://steflangehennig.github.io/research/</guid>
+      <description>Peer-Reviewed Publications Parinandi, Chinnu, Stefani R. Langehennig, and Mark Trautmann. “Which Legislators Pay Attention to Other States’ Policies? Comparing Cosponsorship to Floor Voting in the Diffusion of Renewable Portfolio Policy.” in Policy Studies Journal.
+Existing policy diffusion research has focused predominantly on analyzing collective decision-making at the point of policy adoption. In this project, we evaluate diffusion at the level of the individual legislator and specifically examine whether external cues play a stronger role in legislator decision-making when it comes to cosponsoring versus voting to adopt legislation.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://steflangehennig.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://steflangehennig.github.io/teaching/</guid>
+      <description>University of Denver  Python Programming (Graduate, Fall 2021 &amp;amp; Spring 2022) Data Mining &amp;amp; Visualization (Graduate, Fall 2021 &amp;amp; Spring 2022) Project Management (Graduate, Winter 2022) Capstone Project Planning (Graduate, Winter 2022) Analytics II: Business Statistics and Analysis (Undergraduate, Winter 2022)   University of Colorado Boulder Instructor of Record  The American Congress (Undergraduate, Fall 2018 &amp;amp; Spring 2019)  Teaching Assistant  Advanced Data Analysis (Data II) (Graduate) The American Political System (Undergraduate)  [Interested in learning about the basics of how American democracy works?</description>
+    </item>
+    
+  </channel>
+</rss>
