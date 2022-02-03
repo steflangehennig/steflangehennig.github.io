@@ -25,6 +25,9 @@ params:
     - icon: fab fa-orcid
       title: ORCID
       url: https://orcid.org/0000-0002-0897-6556
+    - icon: fab fa-github
+      title: GitHub
+      url: https://github.com/steflangehennig
   style:
     avatarSize: 180px
     colorBlack: '#222222'
