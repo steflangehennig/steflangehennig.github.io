@@ -33,7 +33,7 @@ params:
     colorBlack: '#222222'
     colorRed: '#dc3545'
     fontFamily: Inconsolata
-    pageWidth: 900px
+    pageWidth: 1000px
 permalinks:
   /: /:filename
 menu:
